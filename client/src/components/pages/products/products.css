@@ -1,0 +1,73 @@
+.products {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  justify-content: center;
+  margin: 20px 0;
+  margin-left: 30px;
+}
+
+@import url("./production_item/productionItem.css");
+
+.delete-all {
+  text-align: right;
+  margin: 20px;
+}
+.delete-all input {
+  height: 25px;
+  width: 25px;
+  transform: translateY(5px);
+  margin: 0 15px;
+}
+.delete-all span {
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  color: rgb(46, 154, 216);
+}
+
+.delete-all button {
+  border: 1px solid crimson;
+  padding: 10px 25px;
+  color: crimson;
+  text-transform: uppercase;
+}
+
+.filter_menu {
+  width: 100%;
+  min-height: 40px;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 15px 0;
+}
+
+.filter_menu select {
+  border: 1px solid #ccc;
+  outline: none;
+  height: 40px;
+  padding: 0 5px;
+}
+.filter_input {
+  border: 1px solid #ccc;
+  outline: none;
+  height: 38px;
+  padding: 0 5px;
+}
+
+.filter_menu input {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.load_more {
+  text-align: center;
+}
+.load_more button {
+  padding: 10px 25px;
+  margin-bottom: 20px;
+  border: 1px solid #e25445;
+  text-transform: capitalize;
+  color: #e25445;
+}

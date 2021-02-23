@@ -1,0 +1,43 @@
+.history-page {
+  overflow-x: auto;
+}
+
+.history-page h2,
+h4 {
+  text-align: center;
+  margin: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+}
+.history-page table {
+  margin: auto;
+  width: 100%;
+}
+.history-page table,
+th,
+tr,
+td {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+}
+th,
+td {
+  text-align: center;
+  padding: 10px;
+  text-transform: capitalize;
+}
+
+table a {
+  color: white;
+  width: 100%;
+  padding: 4px 10px;
+  background: rgba(110, 109, 109, 0.993);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.history-page img {
+  width: 70px;
+  height: 100px;
+}
