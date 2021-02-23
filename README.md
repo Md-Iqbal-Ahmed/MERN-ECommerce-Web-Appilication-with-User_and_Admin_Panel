@@ -15,6 +15,7 @@ This is a MERN, E-Commerce web application. Technology I have used, For frontend
 2. Product details view with related products feature.
 3. Filters like Search, Sort and Category.
 4. Full responsive design fro web and mobile applicaitons.
+5. 1 page contains 9 products. So, Load more button option
 
 - User:
 1. User Authentication System.
