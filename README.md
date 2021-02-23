@@ -13,7 +13,7 @@ This is a MERN, E-Commerce web application. Technology I have used, For frontend
 - viewers:
 1. Product view option but to buy anything user must be registered or logged in.
 2. Product details view with related products feature.
-3. Filters like Search, Sort and Category.
+3. Filters like Search, diiferent typs of Sorting and search by Category option.
 4. Full responsive design fro web and mobile applicaitons.
 5. 1 page contains 9 products. So, Load more button option
 
