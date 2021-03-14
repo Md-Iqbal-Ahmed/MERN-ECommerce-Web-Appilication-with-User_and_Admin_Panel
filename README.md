@@ -29,6 +29,8 @@ This is a MERN, E-Commerce web application. Technology I have used, For frontend
 3. All user order view option.
 4. Multiple product deleting option.
 
+Live demo : https://clever-tesla-528d70.netlify.app/
+
 # User view
 ## Users homepage view
 ![user view](https://user-images.githubusercontent.com/77459327/108920265-91cbfb80-765e-11eb-8cee-af3b3b3ad086.png)
